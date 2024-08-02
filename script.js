@@ -6,12 +6,6 @@ const characters = [
     homeworld: "tatooine",
   },
   {
-    id: 2,
-    name: "C-3PO",
-    pic: "https://vignette.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png",
-    homeworld: "tatooine",
-  },
-  {
     id: 3,
     name: "R2-D2",
     pic: "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png",
