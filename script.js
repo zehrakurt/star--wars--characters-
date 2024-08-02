@@ -5,11 +5,11 @@ const characters = [
     pic: "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg",
     homeworld: "tatooine",
   },
-  {
-    id: 3,
-    name: "R2-D2",
-    pic: "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png",
-    homeworld: "naboo",
+    {
+    id: 20,
+    name: "Yoda",
+    pic: "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png",
+    homeworld: "other",
   },
   {
     id: 4,
@@ -97,10 +97,10 @@ const characters = [
     homeworld: "bestine",
   },
   {
-    id: 20,
-    name: "Yoda",
-    pic: "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png",
-    homeworld: "other",
+    id: 3,
+    name: "R2-D2",
+    pic: "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png",
+    homeworld: "naboo",
   },
   {
     id: 21,
